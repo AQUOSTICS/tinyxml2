@@ -8,8 +8,7 @@ project "tinyxml2"
 	files
 	{
 		"tinyxml2.h",
-		"tinyxml2.cpp",
-		"premake5.lua"
+		"tinyxml2.cpp"
 	}
 
 	filter "system:windows"
