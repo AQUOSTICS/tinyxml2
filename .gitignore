@@ -18,6 +18,10 @@ tinyxml2/temp/
 *.o
 *.vc.db
 *.vc.opendb
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
 libtinyxml2.a
 xmltest
 vs/debug
